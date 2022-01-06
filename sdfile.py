@@ -5,5 +5,7 @@ else:
     thirsty=input("Are you thirsty?")
     if thirsty=="yes":
         print("Drink Water")
+    else:
+        print("Continue with your work!")
         
     print("Have a good day")
